@@ -36,9 +36,8 @@ docker run hello-world
   switching may take few minutes.
   
 
-
+## Courtesy
 ```
-courtesy
 https://docs.docker.com/docker-for-windows/install/
 
 ```
