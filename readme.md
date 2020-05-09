@@ -35,6 +35,8 @@ docker run hello-world
 * You can toggle between Windows and Linux container.
   switching may take few minutes.
   
-
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+  
 ## Courtesy
 [docker for windows](https://docs.docker.com/docker-for-windows/install/)
