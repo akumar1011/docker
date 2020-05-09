@@ -37,7 +37,4 @@ docker run hello-world
   
 
 ## Courtesy
-```
-https://docs.docker.com/docker-for-windows/install/
-
-```
+[docker for windows](https://docs.docker.com/docker-for-windows/install/)
