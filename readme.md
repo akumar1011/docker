@@ -31,6 +31,10 @@ Open Pwershell
 docker run hello-world
 ``` 
 
+### Docker Dashboard
+This is how the dashboard will loook like.
+![Docker Dashboard](/image/docker_dashboard.jpg)
+
 ## Notes
 * You can toggle between Windows and Linux container.
   switching may take few minutes.
